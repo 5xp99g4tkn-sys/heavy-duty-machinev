@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" role="img" aria-label="Хүнд даацын техник төв">
+  <defs>
+    <clipPath id="t"><rect width="16" height="16" rx="3"/></clipPath>
+  </defs>
+  <g clip-path="url(#t)">
+    <rect width="16" height="16" fill="#0a0a0a"/>
+    <g transform="rotate(-45 8 8)">
+      <rect x="-6" y="1" width="28" height="2" fill="#ffcc00"/>
+      <rect x="-6" y="5" width="28" height="2" fill="#ffcc00"/>
+      <rect x="-6" y="9" width="28" height="2" fill="#ffcc00"/>
+      <rect x="-6" y="13" width="28" height="2" fill="#ffcc00"/>
+    </g>
+  </g>
+</svg>
